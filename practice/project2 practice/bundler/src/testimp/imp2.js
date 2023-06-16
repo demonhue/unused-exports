@@ -1,0 +1,1 @@
+export default "(text in module imp2)";

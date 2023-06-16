@@ -1,0 +1,8 @@
+{
+    "presets": ["@babel/preset-env"],
+    "parser": "babel-eslint",
+    "parserOptions": {
+        "sourceType": "module",
+        "allowImportExportEverywhere": true
+    }
+}
